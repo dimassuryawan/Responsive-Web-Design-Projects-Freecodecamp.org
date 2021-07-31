@@ -25,6 +25,8 @@ User Story #7: I should see an a element with a corresponding id="tribute-link",
 User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
 User Story #9: The img element should be centered within its parent element.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **
 Build a Survey Form**
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
