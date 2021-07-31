@@ -8,6 +8,7 @@ For each project was required to run this script below in order to check whether
 **<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>**
 
 **Build a Tribute Page**
+
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
 User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
@@ -29,6 +30,7 @@ User Story #9: The img element should be centered within its parent element.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Build a Survey Form**
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
+
 User Story #1: I can see a title with id="title" in H1 sized text.
 
 User Story #2: I can see a short explanation with id="description" in P sized text.
